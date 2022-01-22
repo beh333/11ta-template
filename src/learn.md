@@ -1,30 +1,14 @@
 ---
-title: About Title # will be overwritten by SEO.title below
-date: 2020-08-05
+title: Learn # will be overwritten by SEO.title below
+date: 2022-01-19
 layout: page
 eleventyNavigation:
   key: main
-  title: About # as it will appear in the nav
+  title: Learn # as it will appear in the nav
   order: 2 # order to display in the nav
-seo:
-  title: About Us # overrides 'title' above on both Page and META
-  description:
-  image:
 ---
 
-{% wrap "bg-red-100 mt-4 border border-red-300 rounded-lg underline" %}
-
-Text courtesy [Fillerama.io](http://fillerama.io/)
-
-{% endwrap %}
-
-## I hear the jury's still out on science.
-
-Guy's a pro. It's a hug, Michael. I'm hugging you. Michael! I care deeply for nature. That's what it said on 'Ask Jeeves.' Across from where?
-
-No, I did not kill Kitty. However, I am going to oblige and answer the nice officer's questions because I am an honest man with no secrets to hide. **Not tricks, Michael, illusions.** _Really?_ Did nothing cancel?
-
-## There's so many poorly chosen words in that sentence.
+## There's so many poorly chosen words.
 
 No! I was ashamed to be SEEN with you. I like being with you. That's why you always leave a note! It's called 'taking advantage.' It's what gets you ahead in life. Steve Holt!
 
